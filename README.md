@@ -14,7 +14,6 @@
   - [VirtualBox](#1-virtualbox)
   - [Kali Linux](#2-kali-linux)
   - [Metasploitable2](#3-metasploitable2)
-  - [Ubuntu](#4-ubuntu)
 - [Configuración de Herramientas](#-configuración-de-herramientas)
   - [Burp Suite con Firefox](#1-burp-suite-con-firefox)
   - [Certificado CA de Burp](#2-certificado-ca-de-burp)
@@ -22,8 +21,6 @@
   - [Fuerza Bruta con Intruder](#1-ataque-de-fuerza-bruta-con-intruder)
   - [Directory Traversal con Repeater](#2-directory-traversal-con-repeater)
   - [Inyección SQL](#3-inyección-sql)
-- [Solución de Problemas](#-solución-de-problemas)
-- [Advertencias Legales](#-advertencias-legales)
 
 ---
 
