@@ -331,18 +331,3 @@ admin'/*
 - [DVWA GitHub](https://github.com/digininja/DVWA)
 
 ---
-
-## 📝 Notas Finales
-
-Este laboratorio te proporciona una base sólida para entender:
-- Cómo funcionan las vulnerabilidades web comunes
-- Las herramientas profesionales de análisis de seguridad
-- La importancia de la seguridad en el desarrollo web
-
-Practica de forma responsable y continúa aprendiendo. La seguridad informática es un campo en constante evolución.
-
----
-
-**Versión:** 1.0  
-**Última actualización:** Octubre 2025  
-**Licencia:** Uso educativo únicamente
