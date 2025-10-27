@@ -133,9 +133,7 @@ Esta VM vulnerable se utilizará como objetivo de pruebas.
 
 ---
 ## 🔧 Configuración de Herramientas
-
 ### 1. Burp Suite con Firefox
-
 #### Configurar Burp Suite
 1. Abre **Burp Suite** en Kali Linux
 2. Ve a **Proxy** → **Options**
@@ -183,7 +181,6 @@ Para evitar advertencias SSL en HTTPS:
 Esta práctica te enseñará a descubrir contraseñas débiles mediante fuerza bruta.
 
 #### Paso 1: Descubrimiento del Objetivo
-
 1. En Kali Linux, abre una terminal
 2. Obtén tu IP local:
    ```bash
@@ -245,7 +242,6 @@ Esta práctica te enseñará a descubrir contraseñas débiles mediante fuerza b
 
 ### 2. Directory Traversal con Repeater
 Esta práctica demuestra cómo acceder a archivos del sistema mediante vulnerabilidades de inclusión de archivos.
-
 #### Paso 1: Preparación
 1. En DVWA, navega a la sección **File Inclusion**
 2. Observa cómo la URL incluye un parámetro `page`
@@ -299,7 +295,6 @@ Esta práctica muestra cómo explotar vulnerabilidades de inyección SQL.
    ```
    id=1' OR 1=1--
    ```
-
 2. Envía la petición
 3. Analiza la respuesta:
    - Si la inyección funciona, verás **todos** los usuarios de la base de datos
@@ -323,8 +318,7 @@ admin'/*
 - **Sin cambios:** El campo puede estar protegido
 
 ---
-## 📚 Recursos Adicionales
-
+## Recursos Adicionales
 - [Documentación oficial de Burp Suite](https://portswigger.net/burp/documentation)
 - [Kali Linux Documentation](https://www.kali.org/docs/)
 - [OWASP Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
